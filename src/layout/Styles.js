@@ -16,6 +16,5 @@ export const Styles = () => {
         <Footer />
       </footer>
     </div>  
-
-  )
-}
+  );
+};
