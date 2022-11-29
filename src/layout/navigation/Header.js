@@ -13,7 +13,7 @@ export const Header = () => {
             <Nav className="ml-auto">
               <Nav.Link href='/dashboard'>Dashboard</Nav.Link>
               <Nav.Link href='/tickets'>Tickets</Nav.Link>
-              <Nav.Link href='/logout'>Logout</Nav.Link>
+              {/* <Nav.Link href='/logout'>Logout</Nav.Link> */}
             </Nav>
         </Navbar.Collapse>
     </Navbar>
