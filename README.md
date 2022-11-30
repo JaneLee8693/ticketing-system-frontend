@@ -1,3 +1,14 @@
+#Ticketing System (Frontend)
+## This system allows users to CRUD tickets. 
+![image](https://user-images.githubusercontent.com/80297424/204930316-fdebe883-76df-400f-a277-ff89c803bce8.png)
+![image](https://user-images.githubusercontent.com/80297424/204930618-c38a2a77-1c6c-4fa0-ad1a-c8ad64fc97eb.png)
+![image](https://user-images.githubusercontent.com/80297424/204931109-78986901-ce48-40d9-a196-9e27878c7e8d.png)
+![image](https://user-images.githubusercontent.com/80297424/204930655-74ad3b4f-a65c-4d2a-bc1f-b08394a2a325.png)
+![image](https://user-images.githubusercontent.com/80297424/204930731-784ce47e-f50d-4dbe-a577-f8b19dcc4096.png)
+![image](https://user-images.githubusercontent.com/80297424/204930774-93c6fa76-a509-42e6-9754-042299e8ba23.png)
+
+### To make the testing easier, the data will restore to default as refreshing the page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
