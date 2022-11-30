@@ -1,12 +1,9 @@
 import React from 'react';
 import './App.css';
 import { Home } from './pages/home/Home';
-
-// import { Styles } from './layout/Styles';
+import { AddTicketForm } from './components/addTickets/AddTicketForm';
+import { EditTicketForm } from './components/editTickets/EditTicketForm';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-// import { Dashboard } from './pages/Dashboard/Dashboard';
-// import { AddTicketForm } from './components/addTickets/AddTicketForm';
-
 
 function App() {
   return (
@@ -14,6 +11,9 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Home/>}/>
+          <Route path="/create" element={<AddTicketForm/>}/>
+          <Route path="/edit" element={<EditTicketForm/>}/>
+
         </Routes>
       </Router>
     </div>
