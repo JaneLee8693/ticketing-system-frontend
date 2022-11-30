@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/80297424/204930731-784ce47e-f50d-4dbe-a577-f8b19dcc4096.png)
 ![image](https://user-images.githubusercontent.com/80297424/204930774-93c6fa76-a509-42e6-9754-042299e8ba23.png)
 
-### To make the testing easier, the data will restore to default as refreshing the page.
+### To make the testing easier, data will be restored to the default as refreshing the page.
 
 # Getting Started with Create React App
 
