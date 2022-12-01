@@ -9,6 +9,7 @@
 
 ### To make the testing easier, data will be restored to the default as refreshing the page. (useNavigate)
 ### Since it's just for frontend, I got and populated the json data locally to the page and used State, setState, and useEffect for keeping track of and updating each fields.
+### If we have server and more backend settings, We can fetch the data with Axios. Then we'll use some functions to set orders of the workflow (await/async) or invoke code execution as ready in DOM (componentDidMount).
 
 
 # Getting Started with Create React App
